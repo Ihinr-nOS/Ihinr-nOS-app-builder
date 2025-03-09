@@ -1,9 +1,9 @@
-# Oniro App Builder
+# PureHarmony App Builder
 
-Oniro App Builder provides a Dockerized tool for building Oniro/OpenHarmony applications.
+PureHarmony App Builder provides a Dockerized tool for building Oniro/OpenHarmony applications.
 
 ## Features
-- Pre-configured environment for Oniro/OpenHarmony ArkTS applications.
+- Pre-configured environment for PureHarmony/Oniro/OpenHarmony ArkTS applications.
 - Dockerized solution for consistent builds.
 - Simple commands to build and package applications.
 
